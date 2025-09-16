@@ -1,4 +1,4 @@
-The Jupyter Notebook documents all the code for reproducing the data analysis
-The environment requirements are specified in the requirement.txt
-The data used in the jupyterNotebook is available on: https://github.com/CenterForTheBuiltEnvironment/ashrae-db-II
-The published paper is available on: https://doi.org/10.1016/j.buildenv.2024.111530
+- The Jupyter Notebook documents all the code for reproducing the data analysis
+- The environment requirements are specified in the requirement.txt
+- The data used in the jupyterNotebook is available on: https://github.com/CenterForTheBuiltEnvironment/ashrae-db-II
+- The published paper is available on: https://doi.org/10.1016/j.buildenv.2024.111530
